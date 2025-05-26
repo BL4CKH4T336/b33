@@ -2,3 +2,4 @@ faker
 flask
 user_agent
 requests
+bs4
