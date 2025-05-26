@@ -3,3 +3,4 @@ flask
 user_agent
 requests
 bs4
+pyfiglet
