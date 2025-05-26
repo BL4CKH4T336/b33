@@ -1,4 +1,4 @@
 faker
 flask
-user_agents
+user_agent
 requests
